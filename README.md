@@ -63,24 +63,27 @@ Y= A⊕B
 
 
 **PROGRAM**
-<img width="646" height="193" alt="code" src="https://github.com/user-attachments/assets/901080e0-2efe-410a-8e77-b521b1b7b69a" />
+<img width="387" height="236" alt="code" src="https://github.com/user-attachments/assets/1cdac777-dd02-40f7-9ef1-379e482f2a62" />
+
 
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:A Praveen Kishore
+ Developed by: A Praveen Kishore
  RegisterNumber: 25010010
  
 **Logic symbol & Truthtable**
-![truth table](https://github.com/user-attachments/assets/ac0463cc-5e4b-4414-8416-8de6d9be1258)
+![truth table](https://github.com/user-attachments/assets/b280b0d1-c640-470d-bf1f-106e491889d6)
+
 
 
 **RTL Output:** 
-<img width="461" height="253" alt="RTL viewer " src="https://github.com/user-attachments/assets/900fea5b-6ec3-42f2-9af7-d3551e589240" />
+<img width="442" height="278" alt="RTL VIEWER" src="https://github.com/user-attachments/assets/83bc8ca0-f4bb-4ad7-9dcc-536bd59f9a54" />
+
 
 
 **Waveform output**
-<img width="1117" height="272" alt="wave form" src="https://github.com/user-attachments/assets/1c9df946-4e03-4a99-813d-05fc60c7203e" />
+<img width="1886" height="290" alt="waveform " src="https://github.com/user-attachments/assets/c71846ac-df3c-43bb-9305-00bba7f4aaa9" />
 
 
 
